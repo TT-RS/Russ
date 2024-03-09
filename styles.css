@@ -1,0 +1,37 @@
+body{
+    background-color: whitesmoke;
+}
+#hero_section{
+    height: 48vh;
+    display: inline-flex;
+    }
+
+.sec2 {
+    width: 50%; 
+    height: 100%;
+}
+#fname{
+    font-size: 450%;
+}
+
+#name{
+    text-align: center;
+}
+#Ceejay{
+    width: 75%;
+    height: 100%;
+    background-color: aqua;
+    border-radius: 100%;
+}
+#about_me{
+    text-align: center;
+    margin-top: 3%;
+    padding: 3%;
+}
+#contact_me{
+    border: 1px solid black;
+    width: 25%;
+    margin-left: 37.5%;
+    padding: 2%;
+    border-radius: 10%;
+}
